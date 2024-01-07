@@ -2,7 +2,7 @@
   <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
 </div>
 
-<h1 align="center">Hi 👋, I'm Sakshi Goyat</h1>
+<h1 align="center">Hi 👋, I'm harsh patare</h1>
 
 <h3 align="center">A passionate Full stack web developer from India. </h3>
 
@@ -11,15 +11,15 @@
 </p>
 
 ### 🙋‍♂️ About Me
-- 👩‍🎓 I'm a sophomore at **IIIT Gwalior studying Computer Science**
+- 👩‍🎓 I'm a sophomore at **PESMCOE studying Information Technology**
 
 - 🔭 I’m looking to contribute to **Open Source**
 
 - 🌱 I’m currently exploring **Machine learning**
 
-- 👨‍💻 Know me more <a href="https://sakshi-goyat-portfolio.netlify.app" style="text-decoration: none;">Portfolio</a>
+- 👨‍💻 Know me more  <a href="https://harsh-patare-portfolio.netlify.app" style="text-decoration: none;">Portfolio</a>
 
-- 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=sakshigoyat14@gmail.com" style="text-decoration: none;">Email</a>
+- 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=harshvardhanpatare@gmail.com" style="text-decoration: none;">Email</a>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
@@ -34,15 +34,15 @@
 </p>
   
 ### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=SakshiGoyat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=SakshiGoyat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiGoyat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Harshawardhan2209&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Harshawardhan2209&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshawardhan2209&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
   
-[![](https://visitcount.itsvg.in/api?id=SakshiGoyat&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Harshawardhan2209&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -52,8 +52,8 @@
   
 <h4> 📬 Reach me out </h4>
 <p align="left">
-<a href = "https://www.linkedin.com/in/sakshi-goyat/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/sakshi_goyat"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/sakshi_goyat_14/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/harshvardhan-patare/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/Harshpatare22"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/harsh_patare2209/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <!-- <a href = "https://leetcode.com/sakshigoyat14/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem" width="50rem"/></a> -->
 </p>
